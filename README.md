@@ -22,7 +22,7 @@ Trading strategy checker on cryptocurrency exchange Binance
 
 #### New Features!
 
-- Релизована стратегия **MACD** *(Moving Average Convergence/Divergence)* с классическими параметрами (12, 26, 9)
+- Релизована стратегия **MACD** *(Moving Average Convergence/Divergence)* с параметрами (12, 26, 9)
 - Реализована стратегия **MA** *(Moving Average)* с параметрами EMA30 и EMA100
 
 #### Installation
