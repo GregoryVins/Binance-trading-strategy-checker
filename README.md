@@ -7,7 +7,7 @@ Trading strategy checker on cryptocurrency exchange Binance
 #### Short description
 
 - Бот работает исключительно с криптовалютной площадкой [Binance](https://www.binance.com/ru/register?ref=18791685).
-- Стратегии тестируются на стоповом *(spot)* рынке.
+- Стратегии тестируются на спотовом *(spot)* рынке.
 - Работа происходит через предоставляемые площадкой API keys.
 - На машине запуска должен быть установлен python 3.8+
 
